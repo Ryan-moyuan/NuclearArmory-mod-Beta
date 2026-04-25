@@ -1,0 +1,11 @@
+{
+  "item.nucleararmory.pistol": "Pistol",
+  "item.nucleararmory.rifle": "Assault Rifle",
+  "item.nucleararmory.shotgun": "Shotgun",
+  "item.nucleararmory.sniper": "Sniper Rifle",
+  "item.nucleararmory.ammo": "Ammo",
+  "item.nucleararmory.nuclear_bomb": "Nuclear Bomb",
+  "item.nucleararmory.uranium_ingot": "Uranium Ingot",
+  "item.nucleararmory.plutonium_ingot": "Plutonium Ingot",
+  "itemGroup.nucleararmory": "Nuclear Armory"
+}
