@@ -40,3 +40,51 @@ PVP服务器（直接开战）
 
 
 Beta是因为作者正在改进，进入后贴纸无法加载，广大网友可以帮忙修改修改，谢谢
+
+english⬇️
+💥 Mod Concept
+
+No complex crafting chains.
+No industrial pipelines.
+No unnecessary systems.
+
+👉 This mod does one thing only: push combat to the absolute extreme.
+
+🔫 Gun System
+Multiple firearms (pistols / rifles / heavy weapons)
+Fast-paced shooting experience
+Easy to obtain — jump straight into action
+
+👉 Skip the primitive era and go straight into modern warfare.
+
+☢️ Nuclear System
+Tactical nukes (for clearing targets)
+High-yield nukes (reshape the terrain)
+Remote launch / throwable mechanics
+
+👉 One click can change the battlefield — one strike decides everything.
+
+⚠️ Core Gameplay
+No protection? You’re gone instantly.
+Resources don’t matter — firepower does.
+Combat ≠ trading hits, it’s total domination.
+🎮 Gameplay Experience
+⚡ Extremely fast-paced (fight from the start)
+💣 Intense and unforgiving combat
+🌍 An unstable world (terrain can be wiped at any time)
+🧠 Design Philosophy
+
+👉 “Minimal content, maximum destruction.”
+
+🎯 Recommended For
+Players who enjoy high-intensity combat
+PvP servers (instant warfare)
+Anyone who wants a pure destruction experience
+🧪 Beta Notice
+
+This mod is currently in Beta as the developer is still improving it.
+
+There is a known issue where textures may fail to load after entering the game.
+Contributions, fixes, and suggestions from the community are highly appreciated.
+
+👉 Feel free to help improve the mod — thank you!
