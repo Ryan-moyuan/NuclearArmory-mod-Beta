@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+    modId="nucleararmory"
+    version="1.0.0"
+    displayName="Nuclear Armory"
+    description='''
+        Nuclear weapons and firearms for Minecraft!
+        Add powerful guns and a devastating nuke to your arsenal.
+    '''
+    authors="moyuan"
+
+[[dependencies.nucleararmory]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.3.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.nucleararmory]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

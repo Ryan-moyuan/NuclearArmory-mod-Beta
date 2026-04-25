@@ -1,0 +1,11 @@
+{
+  "item.nucleararmory.pistol": "手枪",
+  "item.nucleararmory.rifle": "突击步枪",
+  "item.nucleararmory.shotgun": "散弹枪",
+  "item.nucleararmory.sniper": "狙击步枪",
+  "item.nucleararmory.ammo": "弹药",
+  "item.nucleararmory.nuclear_bomb": "核弹",
+  "item.nucleararmory.uranium_ingot": "铀锭",
+  "item.nucleararmory.plutonium_ingot": "钚锭",
+  "itemGroup.nucleararmory": "核武库"
+}
