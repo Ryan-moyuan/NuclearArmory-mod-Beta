@@ -1,4 +1,4 @@
-# morecats-mod
+# NuclearArmory-mod-Beta
 💥 模组理念
 
 没有复杂合成链
